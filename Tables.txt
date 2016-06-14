@@ -1,0 +1,258 @@
+<div class="container">
+
+    <div class="row">
+        <div class="col-md-12">
+            <h3 style="color:#54bdf2;">CP de 3 a 4 ans</h3>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table cstm-table" id="table">
+                <thead>
+                    <tr>
+                        <th>Activités Ludiques(30%)</th>
+                        <th>Activités Artistiques(30%)</th>
+                        <th>Activités Sportives(30%)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Conte</td>
+                        <td>Danse</td>
+                        <td>Jeux aquatiques x4</td>
+                    </tr>
+
+                    <tr>
+                        <td>Jardinage</td>
+                        <td>Arts plastique</td>
+                        <td>Mini foot</td>
+                    </tr>
+                    <tr>
+                        <td>Légo</td>
+                        <td>Chants/Karaoké</td>
+                        <td>Jeux de psychomotricité</td>
+                    </tr>
+                    <tr>
+                        <td>Savez-vous</td>
+                        <td>Ciné club</td>
+                        <td>Trampoline</td>
+                    </tr>
+                    <tr>
+                        <td>Petit Chef</td>
+                        <td>Marionettes</td>
+                        <td>Jeux collectifs</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>Dessin/Peinture</td>
+                        <td>Jeux de relais</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Jeux diriges</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Mini basket</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td>Trotinette / Bowling</td>
+                    </tr>
+
+                </tbody>
+            </table>
+            <hr>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <h3 style="color:#54bdf2;">CE1 de 4 a 7 ans</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <table class="table cstm-table" id="table">
+                    <thead>
+                        <tr>
+                            <th>Activités Ludiques(25%)</th>
+                            <th>Activités Artistiques(15%)</th>
+                            <th>Activités Sportives(40%)</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Jeux de sociétés</td>
+                            <td>Art plastique</td>
+                            <td>Basketball</td>
+                        </tr>
+
+                        <tr>
+                            <td>Jardinage</td>
+                            <td>Zumba</td>
+                            <td>Football</td>
+                        </tr>
+                        <tr>
+                            <td>Mécano/Légo</td>
+                            <td>Théatre</td>
+                            <td>Bowling</td>
+                        </tr>
+                        <tr>
+                            <td>Savez-vous</td>
+                            <td>Dessin/Peinture</td>
+                            <td>Natation x2</td>
+                        </tr>
+                        <tr>
+                            <td>Petit Chef</td>
+                            <td></td>
+                            <td>Golf</td>
+                        </tr>
+                        <tr>
+                            <td>Cine club</td>
+                            <td></td>
+                            <td>Art Martiaux</td>
+                        </tr>
+                        <tr>
+                            <td>Crazy Lab</td>
+                            <td></td>
+                            <td>Tir a l'arc</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>Jeux de relais</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>Petit jeux</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>Gymnastique</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>Trampoline</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>Tennis</td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>Trotinette</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <hr>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h3 style="color:#54bdf2;">CE2 Rouge: fille de 7 a 9 ans</h3>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <table class="table cstm-table" id="table">
+                        <thead>
+                            <tr>
+                                <th>Activités Ludiques(25%)</th>
+                                <th>Activités Artistiques(35%)</th>
+                                <th>Activités Sportives(40%)</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Jeux de sociétés</td>
+                                <td>Zumba</td>
+                                <td>Escrime</td>
+                            </tr>
+
+                            <tr>
+                                <td>Savez-vous</td>
+                                <td>Arts plastique</td>
+                                <td>Football</td>
+                            </tr>
+                            <tr>
+                                <td>Mécano/Légo</td>
+                                <td>Hip Hop</td>
+                                <td>Natation x4</td>
+                            </tr>
+                            <tr>
+                                <td>Ciné Club</td>
+                                <td>Danse Contemporaine</td>
+                                <td>Ping Pong</td>
+                            </tr>
+                            <tr>
+                                <td>Crazy Lab</td>
+                                <td>Théatre</td>
+                                <td>Badminton</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Art du cirque</td>
+                                <td>Petits jeux</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Graphitie</td>
+                                <td>Gymnastique</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td>Crafts</td>
+                                <td>Handball</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>Basketball</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>Jeux de relais</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>Hockey</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>Tir a l'arc</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>Freezbee</td>
+                            </tr>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td>Arts Martiaux</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <hr>
+                </div>
+    </div>
+
+
+
+
+
+
+.cstm-table  thead{font-family: sans-serif;color:#fa7400;background-color:#fceadb;font-size:15px;}
+.cstm-table tbody{color:#0091da;font-family: sans-serif;background-color:#eef9fe;font-size:12px;}
